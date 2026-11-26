@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Activité Pratique N°5 — Agentic AI et MCP (LangChain & LangGraph)
 
 **Mohamed Ouallal**  
@@ -17,3 +18,6 @@ cp .env.example .env
 - `part_b2_rag/` — Partie B2 : Chatbot Agentic RAG (LangGraph Studio + Streamlit)
 - `part_c_mcp/` — Partie C : Serveur MCP (`streamable-http`), client LangChain/LangGraph et n8n
 - `part_d_sav/` — Partie D : Travail de synthèse (Orchestrateur LangGraph + `agent_documentaire` via MCP + `agent_garantie`)
+=======
+# Agentic-AI-et-MCP
+>>>>>>> bb611e01d62e629ee6074c62d4ec65d455c98273
