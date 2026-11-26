@@ -1,0 +1,14 @@
+[Section 1 - Présentation Imprimante PX-200]
+L'imprimante PX-200 est une imprimante laser multifonction destinée aux bureaux. Elle dispose d'un écran de contrôle avec voyants lumineux et pictogrammes d'état.
+
+[Section 2 - Voyants et Pictogrammes (Figure img_px200_01)]
+Figure img_px200_01 : Pictogramme d'un triangle d'avertissement accompagné d'une feuille froissée et d'un voyant orange clignotant sur l'écran de la PX-200.
+Signification : Bourrage papier détecté dans le bac d'alimentation arrière ou au niveau du rouleau de fusion.
+Action recommandée :
+1. Éteindre l'imprimante PX-200 et débrancher le câble d'alimentation.
+2. Ouvrir le capot arrière et retirer délicatement la feuille coincée sans la déchirer.
+3. Refermer le capot puis rallumer l'appareil ; le voyant doit repasser au vert fixe.
+
+[Section 3 - Remplacement de la cartouche (Figure img_px200_02)]
+Figure img_px200_02 : Pictogramme d'une goutte barrée avec voyant rouge fixe.
+Signification : Niveau de toner critique, cartouche PX-T200 à remplacer.

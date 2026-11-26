@@ -1,0 +1,22 @@
+[project]
+name = "agentic-mcp"
+version = "0.1.0"
+description = "Activité pratique 5 : Agentic AI et MCP - LangChain et LangGraph"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "langchain",
+    "langchain-openai",
+    "langchain-community",
+    "langchain-experimental",
+    "langchain-tavily",
+    "ddgs",
+    "langgraph",
+    "mcp",
+    "langchain-mcp-adapters",
+    "streamlit",
+    "pypdf",
+    "faiss-cpu",
+    "python-dotenv",
+    "ipykernel",
+    "fastembed>=0.9.1",
+]

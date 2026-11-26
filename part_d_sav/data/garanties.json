@@ -1,0 +1,14 @@
+{
+  "PX200-0042": {
+    "modele": "Imprimante PX-200",
+    "date_achat": "2025-06-15",
+    "fin_garantie": "2027-06-15",
+    "statut": "Sous garantie (24 mois)"
+  },
+  "PX200-0010": {
+    "modele": "Imprimante PX-200",
+    "date_achat": "2023-02-10",
+    "fin_garantie": "2025-02-10",
+    "statut": "Garantie expirée"
+  }
+}
