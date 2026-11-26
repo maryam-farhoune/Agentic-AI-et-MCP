@@ -1,1 +1,1 @@
-# -Agentic-AI-et-MCP
+# Agentic-AI-et-MCP
