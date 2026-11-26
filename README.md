@@ -1,8 +1,5 @@
 # Activité Pratique N°5 — Agentic AI et MCP (LangChain & LangGraph)
 
-**Mohamed Ouallal**  
-**IADATA — Groupe 4**  
-
 ## Installation
 
 ```bash
